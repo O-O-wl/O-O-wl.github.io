@@ -4,7 +4,7 @@ bio:                '🦉'
 description:        "부엉이의 개발 노트"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://user-images.githubusercontent.com/39197978/62073951-b7273680-b27c-11e9-96e4-2c7494569ac6.png'
+logo:               'https://user-images.githubusercontent.com/39197978/62074158-15ecb000-b27d-11e9-9988-4998dce553ba.jpeg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -44,7 +44,7 @@ github-url:         O-O-wl
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          ddongyounh.lee
+instagram:          ddongyoung.lee
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
