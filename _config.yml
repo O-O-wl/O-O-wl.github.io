@@ -4,7 +4,7 @@ bio:                '🦉'
 description:        "부엉이의 개발 노트"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://user-images.githubusercontent.com/39197978/62073774-57309000-b27c-11e9-8a1f-f690b53eb6bd.png'
+logo:               'https://user-images.githubusercontent.com/39197978/62073951-b7273680-b27c-11e9-96e4-2c7494569ac6.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
-github-url:         username
+facebook:           ldcpaul
+github-url:         O-O-wl
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          ddongyounh.lee
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
