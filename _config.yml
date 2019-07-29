@@ -4,8 +4,8 @@ bio:                '🦉'
 description:        "부엉이의 개발 노트"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://user-images.githubusercontent.com/39197978/62074319-75e35680-b27d-11e9-956a-66dd4b5fcbf5.png'
-background:         'https://user-images.githubusercontent.com/39197978/62074379-9ad7c980-b27d-11e9-932a-8eb99d94abb2.jpg'
+logo:               'https://user-images.githubusercontent.com/39197978/62074815-86e09780-b27e-11e9-9ff9-b539ad28cd0b.png'
+background:         'https://user-images.githubusercontent.com/39197978/62074592-13d72100-b27e-11e9-97b5-f9927ccb329b.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://O-O-wl.github.io
