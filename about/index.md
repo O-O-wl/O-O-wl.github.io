@@ -1,37 +1,82 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About Me
+tags: [about, 부엉이, introduce, developer]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+# About Me
 
-## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Dong young , Lee 
+
+- ####  iOS developer
+
+<br>
+
+<br>
+
+### TODO 🔭 
+
+---
+
+- 어제보다 **오늘이 나은 개발자**
+
+<br><br>
+
+### Contact 📞
+
+---
+
+- ***GitHub***  : [github.com/O-O-wl](https://github.com/O-O-wl)
+
+- ***E-mail***	: o.o.wl.soft@gmail.com
+
+<br><br>
+
+## Education 📚
+
+---
+
+-  **Sung Kong Hoe University  Computer Science  (2013 ~ now)**
+-  **Code Squad**
+
+<br><br>
+
+## Skill ⚙️
+
+---
+
+- ### iOS📱
+
+  - Swift
+
+<br><br>
+
+## Project 
+
+---
+
+- ### in Code Squad
+
+  > Console project 
+  >
+  > - [좌표 계산기](https://github.com/O-O-wl/swift-coordinate)
+  >
+  > - [JSON 문자열 분석기](https://github.com/O-O-wl/swift-jsonparser)
+  > - [카드 게임](https://github.com/O-O-wl/swift-cardgame)
+  >
+  > ---
+  >
+  >  iOS Project
+  >
+  > - 
+
+- ### in School
+
+  - [작은고양이톡](https://github.com/smallcattalk/small-cat-talk)
+

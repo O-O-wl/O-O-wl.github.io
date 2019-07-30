@@ -1,6 +1,7 @@
 ---
 layout: post-list
-title: All Posts
+title: 부엉이의 노트
 excerpt: "A List of Posts"
 comments: false
 ---
+
