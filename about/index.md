@@ -47,7 +47,7 @@ comments: false
 
 <br><br>
 
-## Skill ⚙️
+## Skill 🛠
 
 ---
 
